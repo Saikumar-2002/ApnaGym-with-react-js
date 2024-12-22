@@ -1,8 +1,8 @@
-# Iron Edge Gym
+# Apna Gym
 
-Welcome to Iron Edge Gym – where strength meets community! Our gym is dedicated to providing top-tier facilities and a supportive environment for fitness enthusiasts of all levels. Whether you’re a seasoned athlete or just beginning your fitness journey, Iron Edge Gym offers everything you need to reach your goals.
+Welcome to Apna Gym – where strength meets community! Our gym is dedicated to providing top-tier facilities and a supportive environment for fitness enthusiasts of all levels. Whether you’re a seasoned athlete or just beginning your fitness journey, Iron Edge Gym offers everything you need to reach your goals.
 
-### Website link: https://iron-edge-gym.vercel.app/
+### Website link: 
 
 
 
@@ -73,7 +73,7 @@ Run the application in  on your localhost
 ###
 
 ## Authors
-- [Atinder Kumar](https://github.com/atinder11)
+- [sai Kumar](https://github.com/Saikumar-2002))
 
 
 
